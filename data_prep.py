@@ -1,3 +1,6 @@
+#this is for vector_search.py 
+# creates fake vector data for testing
+
 import numpy as np
 
 

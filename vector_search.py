@@ -1,3 +1,7 @@
+# this is a "not hooked up to a DB" version 
+# this relies on data_prep.py
+# reference expected_output.txt for the vector representation
+
 import numpy as np
 from scipy.spatial.distance import cdist
 
